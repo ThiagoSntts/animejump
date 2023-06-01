@@ -11,7 +11,7 @@ public class NEJ_Flappy_Bird : MonoBehaviour
     {
      luffyrb=GetComponent<Rigidbody2D>();   
     }
-
+patati
     // Update is called once per frame
     void Update()
     {
